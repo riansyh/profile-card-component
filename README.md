@@ -1,7 +1,5 @@
 # Frontend Mentor - Profile card component
 
-![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
-
 ## Welcome! 👋
 
 This is my solution to a coding challange by [Frontend Mentor](https://www.frontendmentor.io)
